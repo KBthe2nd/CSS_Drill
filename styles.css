@@ -1,0 +1,106 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: lightgray;
+}
+
+h2, p, .readme-wrapper {
+
+    text-align: center;
+    
+}
+
+.readme-wrapper a {
+
+    color: coral;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    font-weight: bold;
+    color: crimson;
+    
+}
+
+span {
+
+color: darkcyan;
+font-weight: bolder;
+
+}
+
+.boxes {
+    padding: 0 1em;
+    margin: 2em 1em;
+    border: solid blue;
+    border-radius: 5%;
+    width: 35em;
+    display: block;
+
+}
+
+#box1, #box2, #box3, #box4{
+
+    background-color: burlywood;
+    
+}
+#box2 {
+
+    
+}
+.images {
+    position: absolute;
+    left: 80px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: darkviolet;
+}
+
+div {
+    border: 2px solid black;
+    
+    
+
+}
+
+h1 {
+
+    color: fuchsia;
+}
+
+.original {
+
+    color: green;
+}
+
+.additional {
+
+    color: lightsalmon;
+}
+
+#rank_1 {
+    color: olive;
+}
+#rank_2 {
+    color: peachpuff;
+}
+#rank_3 {
+    color: royalblue;
+}
+#rank_4 {
+    color: slateblue;
+}
+#rank_5{
+    color: tomato;
+}
+ul {
+    color: yellow;
+}
+
+.star {
+    color: yellowgreen;
+}
+#wars {
+    color: violet;
+}
